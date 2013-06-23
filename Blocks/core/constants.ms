@@ -1,0 +1,1 @@
+const TWO_LINE = 0; // Line of two blocks
